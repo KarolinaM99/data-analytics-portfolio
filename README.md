@@ -3,7 +3,14 @@
 Witaj! Nazywam się Karolina Maliszewska, a to jest moje portfolio z projektmi Data Analytics.
 Znajdziesz tu analizy biznesowe, dashboardy, projekty SQL, case studies oraz modele predykcyjne.
 
+## Zawartość portfolio
+
+###1️⃣ **Sales Analytics Dashboard**  
+Analiza sprzedaży, KPI, model danych, dashboard Power BI
+→ Folder: `Project_1_Sales_Analytics`
+
 ## Technologie i narzędzia
+
 - **SQL**
 - **Power BI**
 - **Python**
