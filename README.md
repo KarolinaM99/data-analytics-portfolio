@@ -5,7 +5,7 @@ Znajdziesz tu analizy biznesowe, dashboardy, projekty SQL, case studies oraz mod
 
 ## Zawartość portfolio
 
-###1️⃣ **Sales Analytics Dashboard**  
+### 1️⃣ **Sales Analytics Dashboard**  
 Analiza sprzedaży, KPI, model danych, dashboard Power BI
 → Folder: `Project_1_Sales_Analytics`
 
